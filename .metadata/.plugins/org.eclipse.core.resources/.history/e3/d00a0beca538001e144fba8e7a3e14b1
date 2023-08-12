@@ -1,0 +1,5 @@
+package com.primeiroprojeto.userdept.entities;
+
+public class Department {
+
+}
